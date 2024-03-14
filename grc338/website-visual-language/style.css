@@ -79,11 +79,11 @@ figure {
 	margin-bottom: 2rem;
 }
 
-main.menu ul {
+main.shop ul {
 		margin: 2rem 0.1rem;
 }	
 
-main.menu ul li {
+main.shop ul li {
 		margin: 0rem 0rem 0rem;
 		display: grid;
 		grid-template-columns: auto auto;
